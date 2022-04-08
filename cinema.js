@@ -59,3 +59,4 @@ console.table(listarFilmesEmCartaz())
 
 console.log(cinema)
 console.log("Olà")
+console.log("Tudo bem!")
